@@ -1,4 +1,8 @@
 subcomponents:
+  andrebriggs/spartan-app:
+    config:
+      image:
+        tag: "20190828.1"
   spartan-service:
     namespace: services
     config:
