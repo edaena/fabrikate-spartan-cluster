@@ -1,4 +1,8 @@
 subcomponents:
+  edaena/spartan-app:
+    config:
+      image:
+        tag: "20191022.1"
   spartan-service:
     namespace: services
     config:
